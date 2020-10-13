@@ -7,4 +7,4 @@ Starter template for Soundboard deployed via Netlify.
 4. Make it your own. 
 5. Share Netlify URL. 
 
-![ttps://www.netlify.com/img/deploy/button.svg](https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/soundboard/)
+![https://www.netlify.com/img/deploy/button.svg](https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/soundboard/)
