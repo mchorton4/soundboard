@@ -1,7 +1,7 @@
 <!-- Your screenshot goes here-->
 
 
-# Huskie Soundboard
+# Soundboard
 <!-- tell me something about it-->
 
 #Citations
