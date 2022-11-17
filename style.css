@@ -36,6 +36,7 @@ kbd {
 .keys {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat (2, 1fr);
   -webkit-box-align: center;
           align-items: center;
   -webkit-box-pack: center;
