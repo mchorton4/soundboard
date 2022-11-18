@@ -62,14 +62,14 @@ kbd {
   outline: 3px solid yellow;
   
   /* Change mouse pointer */
-  cursor:pointer;
+  cursor:grab;
   -webkit-user-select: none;
       -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
   
   /* Call Transition */
-  transition: all 0.07s ease;
+  transition: all 0.10s ease;
 }
 
 
@@ -78,5 +78,5 @@ kbd {
   -webkit-transform: scale(1.1);
           transform: scale(1.1);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.04);
-  background: white;
+  background: yellow;
 }
