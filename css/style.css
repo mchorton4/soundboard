@@ -55,6 +55,7 @@ kbd {
 
   /* Styling of keys */
   width: 10rem;
+  font-family:'Expose-Bold' ;
   text-align: center;
   background:black;
   outline: 3px solid yellow;
