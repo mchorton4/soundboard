@@ -7,11 +7,11 @@
 The theme is about capturing the Stars Wars aesthitic. Capturing popular sounds that you would hear during the Star Wars series. 
 
 # Citations
-* Found sounds at {https://www.thesoundarchive.com/star-wars.asp}
-* Sound Editing at (https://www.kapwing.com/tools/audio-editor)
-* My fontshare font at (https://www.fontshare.com/fonts/expose)
-* Favicons
-* Any other code assets, etc. 
+* [Found sounds] (https://www.thesoundarchive.com/star-wars.asp)
+* [Sound Editing] (https://www.kapwing.com/tools/audio-editor)
+* [Fontshare] (https://www.fontshare.com/fonts/expose)
+* [Favicons] (https://favicon.io/)
+
 
 
 
