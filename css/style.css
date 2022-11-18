@@ -22,6 +22,7 @@ body {
 
 /* Actual Keyboard Keys */
 kbd {
+  font-family:'Expose-Black' ;
   display: block;
   font-size: 4rem;
   color:red;
@@ -29,6 +30,7 @@ kbd {
 
 /* Name of Sound */
 .sound {
+  font-family:'Expose-Medium' ;
   font-size: 1.2rem;
   letter-spacing: 0.1rem;
   color: #e2e2e2;
@@ -55,7 +57,6 @@ kbd {
 
   /* Styling of keys */
   width: 10rem;
-  font-family:'Expose-Bold' ;
   text-align: center;
   background:black;
   outline: 3px solid yellow;
