@@ -1,5 +1,5 @@
 <!-- Your screenshot goes here-->
-![Group 1](https://user-images.githubusercontent.com/114179957/202620969-45cdace6-4c61-4ca8-8424-395061b648ca.jpg)
+![Screenshot of Cover](https://github.com/mchorton4/soundboard/blob/main/Cover%20Screenshot.jpg?raw=true)
 
 
 # Soundboard
