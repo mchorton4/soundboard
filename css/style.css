@@ -1,6 +1,12 @@
 /* Set Fonts and Resets */
+
+.img{
+  text-align: left;
+  width: 100;
+}
 body,
 html {
+  position:relative;
   background-image:url(https://earth.stanford.edu/sites/default/files/styles/responsive_large/public/media/image/2019-12/starwars_gettyimages-510216640.jpg?itok=d7MEh61h);
   opacity:0.90;
   margin: 0;
@@ -49,6 +55,7 @@ kbd {
 }
 
 /* Visual Keys / Squares */
+
 .key {
   /* Typography */
   margin: 1rem;
@@ -71,7 +78,6 @@ kbd {
   /* Call Transition */
   transition: all 0.10s ease;
 }
-
 
 /* Transition Animation. Last frame of animation. */
 .playing {
